@@ -16,4 +16,4 @@ Atualmente, estou cursando uma Pós graduação em Data Science para ampliar meu
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
 
-**Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**:
+**Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
