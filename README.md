@@ -7,12 +7,12 @@ Realizei diversas apresentações para diretoria, dashboards, elaboração e aco
 Atualmente, estou cursando uma Pós graduação em Data Science para ampliar meu conhecimento em Inteligência Artificial (IA)
 : Machine Learning, BIG DATA, SQL, Python e Estatística.
 
-**Background in:** Python | SQL | Machine Learning 
+💡 **Background in:** Python | SQL | Machine Learning 
 
-**links:**
+📭 **Contatos:**
 [Linkedin](https://www.linkedin.com/in/felipelopesmeira/)
 
-<h1 align="left">Projetos pessoais:</h1>
+<h1 align="left"> Projetos pessoais:</h1>
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
 
