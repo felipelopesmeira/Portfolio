@@ -24,7 +24,8 @@ Linguagem: Python
 
 Linguagem: Python
 
-**Construção de BI - todas as etapas - Projeto MBA**
+**Projeto completo de BI - MBA**
 
 Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (Postgres), visualização (Power BI).
+
 Linguagem: SQL
