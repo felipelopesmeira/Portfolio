@@ -16,6 +16,12 @@ Atualmente, estou cursando uma Pós graduação em Data Science para ampliar meu
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
 
+**Projeto Completo de BI - MBA**
+
+Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (Postgres), visualização (Power BI).
+
+Linguagem: SQL
+
 **Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
 
 Linguagem: Python
@@ -24,8 +30,4 @@ Linguagem: Python
 
 Linguagem: Python
 
-**Projeto Completo de BI - MBA**
 
-Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (Postgres), visualização (Power BI).
-
-Linguagem: SQL
