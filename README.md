@@ -16,7 +16,7 @@ Atualmente, estou cursando uma Pós graduação em Data Science para ampliar meu
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
 
-**Projeto Completo de BI - MBA**
+**1 - Projeto Completo de BI - MBA**
 
 Projeto de BI utilizando a base histórica de bolsas de estudo cedida pelo governo. Passando pelas etapas de ETL utilizando o Pentaho, a modelagem do banco pelo Power Architect, o banco de dados no Postgres e a visualização da informação no Power bi.
 
@@ -32,13 +32,13 @@ Visualização em Power Bi:
 **Visualização em Power BI:**
 
 ![image](https://user-images.githubusercontent.com/48620885/155369684-81260c46-7f2b-40af-aa0c-20287baef6f2.png)
-**Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
+**2 - Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
 
 O estudo proposto em aprendizado supervisionado busca avaliar a qualidade dos modelos de classificação, foram realizados experimentos com os modelos Random Forest, Arvore de decisão, SVM, KNN e regressão logística para medir sua capacidade de rotular se o cavalo irá morrer ou viver dado os parâmetros de entrada fornecidos. Como premissa para a avaliação dos modelos, todos foram executados e passaram por normalização e Grid Search para uma verificação se seria possível melhorar a sua qualidade.
 
 Linguagem: Python
 
-**Consulta da API do TMDB**
+**3 - Consulta da API do TMDB**
 
 Conectando na API do TMDB. Realizando a seleção de colunas e armazenamento no dataframe para visualizar os filmes mais populares. 
 
