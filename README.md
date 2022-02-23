@@ -18,7 +18,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 **1 - Projeto Completo de BI - MBA**
 
-
+Projeto de BI utilizando a base historica de bolsas de estudo cedida pelo governo. Passando pelas etapas de ETL utilizando o Pentaho, a modelagem do banco pelo Power Architect, o banco de dados no Postgres e a visualização da informação no Power bi.
 
 Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (Postgres), visualização (Power BI).
 
