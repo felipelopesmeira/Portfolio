@@ -16,7 +16,7 @@ Atualmente, estou cursando uma Pós graduação em Data Science para ampliar meu
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
 
-**Projeto Completo de BI - MBA**
+**1 - Projeto Completo de BI - MBA**
 
 
 
@@ -35,11 +35,11 @@ Visualização em Power Bi:
 ![image](https://user-images.githubusercontent.com/48620885/155369684-81260c46-7f2b-40af-aa0c-20287baef6f2.png)
 
 
-**Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
+**2 - Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
 
 Linguagem: Python
 
-**Consulta da API do TMDB** 
+**3 - Consulta da API do TMDB** 
 
 Linguagem: Python
 
