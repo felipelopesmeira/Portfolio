@@ -18,15 +18,28 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 **Projeto Completo de BI - MBA**
 
+
+
 Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (Postgres), visualização (Power BI).
 
 Linguagem: SQL
+
+Fluxo do projeto:
+
+![image](https://user-images.githubusercontent.com/48620885/155370529-b91adbeb-bc98-4966-bd45-fb9bf20ab87f.png)
+
+
+
+Visualização em Power Bi:
+
+![image](https://user-images.githubusercontent.com/48620885/155369684-81260c46-7f2b-40af-aa0c-20287baef6f2.png)
+
 
 **Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
 
 Linguagem: Python
 
-**Consulta da API do TMDB**
+**Consulta da API do TMDB** 
 
 Linguagem: Python
 
