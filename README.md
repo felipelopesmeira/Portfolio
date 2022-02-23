@@ -24,13 +24,13 @@ Ferramentas: ETL(Pentaho),modelagem do banco (Power Architect), banco de dados (
 
 Linguagem: SQL
 
-Fluxo do projeto:
+**Fluxo do projeto:**
 
 ![image](https://user-images.githubusercontent.com/48620885/155370529-b91adbeb-bc98-4966-bd45-fb9bf20ab87f.png)
 
 
 
-Visualização em Power Bi:
+**Visualização em Power BI:**
 
 ![image](https://user-images.githubusercontent.com/48620885/155369684-81260c46-7f2b-40af-aa0c-20287baef6f2.png)
 
