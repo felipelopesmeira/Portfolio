@@ -38,6 +38,8 @@ Linguagem: SQL
 
 **2 - Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
 
+O estudo proposto em aprendizado supervisionado busca avaliar a qualidade dos modelos de classificação, foram realizados experimentos com os modelos Random Forest,Arvore de decisão, SVM, KNN e regressão logística para medir sua capacidade de rotular se o cavalo irá morrer ou viver dado os parâmetros de entrada fornecidos. Como premissa para a avaliação dos modelos, todos foram executados e passaram por normalização e Grid Search para uma verificação se seria possível melhorar a sua qualidade.
+
 Linguagem: Python
 
 **3 - Consulta da API do TMDB** 
