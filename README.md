@@ -32,7 +32,8 @@ Linguagem: SQL
 
 **Visualização em Power BI:**
 
-![image](https://user-images.githubusercontent.com/48620885/155369684-81260c46-7f2b-40af-aa0c-20287baef6f2.png)
+![image](https://user-images.githubusercontent.com/48620885/155375477-2ae19cdf-40b7-4f1d-b28e-bbea86b14ad7.png)
+
 
 
 **2 - Aplicação de modelos classificatórios de ML para prever se um cavalo vive ou morre.**
