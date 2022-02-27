@@ -43,4 +43,9 @@ Conectando na API do TMDB. Realizando a seleção de colunas e armazenamento no 
 
 Linguagem: Python
 
+**4 - Tratamento de base e desenvolvimento de wordcloud**
+
+Tratamento de base de reclamações e desenvolvimento de wordcloud. 
+
+Linguagem: Python
 
